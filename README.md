@@ -57,4 +57,6 @@ blogs
 * http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/
 * https://medium.com/square-corner-blog/a-comparison-of-go-web-frameworks-f47804cf86f6#.txv4a81op
 
-
+misc 
+----
+*  https://github.com/Mashape/kong/

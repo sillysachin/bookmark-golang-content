@@ -17,6 +17,13 @@ throttled vs tollbooth
 * Uber  - https://github.com/uber-go
 * Github - https://github.com/google/go-github
 
+golang auth
+1. https://github.com/dvsekhvalnov/jose2go
+2. https://github.com/dgrijalva/jwt-go
+3. https://github.com/SermoDigital/jose
+4. https://github.com/robbert229/jwt
+5. https://github.com/lestrrat/go-jwx
+
 golang - rest frameworks
 ====
 * https://github.com/Fersca/natyla
@@ -56,6 +63,7 @@ blogs
 * http://open.blogs.nytimes.com/2015/12/17/introducing-gizmo
 * http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/
 * https://medium.com/square-corner-blog/a-comparison-of-go-web-frameworks-f47804cf86f6#.txv4a81op
+* http://dghubble.com/blog/posts/json-web-tokens-and-go/
 
 misc 
 ----

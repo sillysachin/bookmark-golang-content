@@ -8,26 +8,36 @@ golang - repos
 * https://github.com/sillysachin/golang-simple-https
 * https://github.com/denisenkom/go-mssqldb
 * https://github.com/brandur/sorg/tree/master/pool
+
 throttled vs tollbooth
 * https://github.com/unrolled/secure
 * https://brandur.org/rate-limiting
+
 * https://github.com/capotej/groupcache-db-experiment
 
 * Dropbox - https://github.com/dropbox/godropbox
-* Uber  - https://github.com/uber-go
+* Uber - https://github.com/uber-go
 * Github - https://github.com/google/go-github
 
 golang auth
-1. https://github.com/dvsekhvalnov/jose2go
-2. https://github.com/dgrijalva/jwt-go
-3. https://github.com/SermoDigital/jose
-4. https://github.com/robbert229/jwt
-5. https://github.com/lestrrat/go-jwx
+====
+* https://github.com/dvsekhvalnov/jose2go
+* https://github.com/dgrijalva/jwt-go
+* https://github.com/SermoDigital/jose
+* https://github.com/robbert229/jwt
+* https://github.com/lestrrat/go-jwx
+* https://gist.github.com/elbuo8/ee75d2944a7f877bea8b
+* https://gist.github.com/corvinusy/8313bd754c15ee9a8c61034641558c0c
+* https://i.cmgine.net/archives/12556.html
+* https://github.com/dghubble/jwts
 
 golang - rest frameworks
 ====
 * https://github.com/Fersca/natyla
 * https://github.com/NYTimes/gizmo
+* https://github.com/atahani/golang-rest-api-sample
+* http://modocache.io/restful-go
+* http://golang.devlog.us/golang/golang-web-server-project-structure-examples/
 
 golang - cloud
 ====
@@ -35,6 +45,7 @@ golang - cloud
 * https://github.com/zabawaba99/firego/
 * https://github.com/zabawaba99/fireauth
 * https://github.com/wuman/firebase-server-sdk-go
+
 
 people
 ====
